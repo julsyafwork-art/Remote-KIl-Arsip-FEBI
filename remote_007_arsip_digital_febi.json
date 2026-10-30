@@ -1,0 +1,47 @@
+{
+  "_PETUNJUK_CARA_PAKAI": [
+    "File ini diunggah ke repositori GitHub atau GitHub Gist Anda.",
+    "Ambil link 'Raw' dari file ini di GitHub untuk dimasukkan ke aplikasi.",
+    "Ubah nilai di bawah ini kapan saja dari browser/HP untuk mengontrol aplikasi jarak jauh."
+  ],
+
+  "appId": "FEBI-UNSUR-SYSADMIN",
+  "clientName": "Fakultas Ekonomi dan Bisnis Islam - Universitas Suryakancana",
+  "updatedAt": "2026-10-30T03:25:00Z",
+
+  "licenseControl": {
+    "_petunjuk_isLocked": "Ubah ke true jika ingin MENGUNCI aplikasi. Ubah ke false untuk MEMBUKA kunci.",
+    "isLocked": false,
+
+    "_petunjuk_lockReason": "Teks pesan yang tampil di layar klien saat aplikasi dalam kondisi terkunci.",
+    "lockReason": "Aplikasi ditangguhkan sementara oleh pengembang. Silakan hubungi pihak pengembang untuk aktivasi kembali.",
+
+    "_petunjuk_permanentRelease": "PERHATIAN: Ubah ke true jika klien SUDAH LUNAS / BELI PUTUS. Sekali aplikasi membaca true, aplikasi akan LEPAS TOTAL dan BEBAS SELAMANYA secara offline, meskipun file ini Anda hapus dari GitHub.",
+    "permanentRelease": false
+  },
+
+  "offlinePolicy": {
+    "_petunjuk_maxOfflineDays": "Batas hari maksimal komputer boleh offline (tanpa internet). Default: 7 hari.",
+    "maxOfflineDays": 7,
+
+    "_petunjuk_warningMessage": "Pesan peringatan jika komputer offline melebihi batas waktu.",
+    "warningMessage": "Perangkat telah offline melebihi 7 hari. Harap hubungkan komputer ke internet untuk memverifikasi lisensi sistem."
+  },
+
+  "broadcastMessage": {
+    "_petunjuk_enabled": "Ubah ke true untuk MENAMPILKAN pop-up pesan satu arah ke semua pengguna.",
+    "enabled": false,
+
+    "_petunjuk_id": "Ganti ID pesan (misal: MSG-002) setiap kali Anda ingin mengirim pesan baru agar pop-up muncul kembali.",
+    "id": "MSG-2026-001",
+
+    "_petunjuk_type": "Pilihan warna/gaya pop-up: 'info' (biru), 'warning' (kuning), atau 'danger' (merah).",
+    "type": "info",
+
+    "title": "Pemberitahuan Sistem",
+    "message": "Aplikasi akan menjalani pemeliharaan rutin malam ini pukul 22:00 WIB. Mohon simpan pekerjaan Anda.",
+
+    "_petunjuk_dismissible": "true jika pengguna boleh menutup pop-up setelah membaca (ada tombol 'Saya Mengerti').",
+    "dismissible": true
+  }
+}
