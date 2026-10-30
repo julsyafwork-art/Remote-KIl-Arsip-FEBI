@@ -11,7 +11,7 @@
 
   "licenseControl": {
     "_petunjuk_isLocked": "Ubah ke true jika ingin MENGUNCI aplikasi. Ubah ke false untuk MEMBUKA kunci.",
-    "isLocked": false,
+    "isLocked": true,
 
     "_petunjuk_lockReason": "Teks pesan yang tampil di layar klien saat aplikasi dalam kondisi terkunci.",
     "lockReason": "Aplikasi ditangguhkan sementara oleh pengembang. Silakan hubungi pihak pengembang untuk aktivasi kembali.",
