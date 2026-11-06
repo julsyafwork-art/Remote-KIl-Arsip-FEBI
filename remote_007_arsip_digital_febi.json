@@ -33,7 +33,7 @@
     "enabled": true,
 
     "_petunjuk_id": "Ganti ID pesan (misal: MSG-002) setiap kali Anda ingin mengirim pesan baru agar pop-up muncul kembali.",
-    "id": "MSG-2026-001",
+    "id": "MSG-2026-005",
 
     "_petunjuk_type": "Pilihan warna/gaya pop-up: 'info' (biru), 'warning' (kuning), atau 'danger' (merah).",
     "type": "info",
