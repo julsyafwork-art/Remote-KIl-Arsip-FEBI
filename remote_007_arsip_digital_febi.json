@@ -30,7 +30,7 @@
 
   "broadcastMessage": {
     "_petunjuk_enabled": "Ubah ke true untuk MENAMPILKAN pop-up pesan satu arah ke semua pengguna.",
-    "enabled": true,
+    "enabled": false,
 
     "_petunjuk_id": "Ganti ID pesan (misal: MSG-002) setiap kali Anda ingin mengirim pesan baru agar pop-up muncul kembali.",
     "id": "MSG-2026-050",
